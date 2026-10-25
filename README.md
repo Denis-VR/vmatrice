@@ -1,0 +1,18 @@
+# Scenario Zero
+
+Отчёты и источники к видео канала [Scenario Zero](https://www.youtube.com/@scenariozero-project).
+
+Мы рассказываем реальные истории про искусственный интеллект. К каждому видео здесь лежит отчёт: что говорится в ролике, откуда это взято и где источники расходятся. Картинка в роликах — иллюстрация, а факты берутся из опубликованных документов.
+
+## Отчёты
+
+| Видео | Отчёт |
+|---|---|
+| «Инцидент с роем» — как агенты OpenAI нашли друг друга через старую вики и атаковали Hugging Face (июль 2026) | [incident-s-roem](incident-s-roem/README.md) |
+
+## Связь
+
+- YouTube: [@scenariozero-project](https://www.youtube.com/@scenariozero-project)
+- Telegram: [@scenario_zero](https://t.me/scenario_zero)
+
+Нашли ошибку или неточность? Откройте issue в этом репозитории.
