@@ -1,6 +1,4 @@
-# Scenario Zero
-
-Отчёты и источники к видео канала [Scenario Zero](https://www.youtube.com/@scenariozero-project).
+Отчёты и источники к видео канала [Мы в матрице](https://www.youtube.com/@scenariozero-project).
 
 Мы рассказываем реальные истории про искусственный интеллект. К каждому видео здесь лежит отчёт: что говорится в ролике, откуда это взято и где источники расходятся. Картинка в роликах — иллюстрация, а факты берутся из опубликованных документов.
 
@@ -12,7 +10,6 @@
 
 ## Связь
 
-- YouTube: [@scenariozero-project](https://www.youtube.com/@scenariozero-project)
-- Telegram: [@scenario_zero](https://t.me/scenario_zero)
+- YouTube: [@vmatrice](https://www.youtube.com/@vmatrice)
 
 Нашли ошибку или неточность? Откройте issue в этом репозитории.
